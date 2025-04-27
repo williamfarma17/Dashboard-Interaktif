@@ -1,6 +1,7 @@
 import streamlit as st
 from data import *
 
+
 def judul():
     st.title("Dashboard Covid-19 Indonesia")
     st.write("Selamat Datang di Dashboard Interaktif Untuk Menganalisis Data Covid-19 Di Indonesia")
